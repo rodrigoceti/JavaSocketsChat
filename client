@@ -1,0 +1,2 @@
+#! /bin/bash
+cd Cliente && javac *.java && java ChatClient
